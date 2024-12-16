@@ -52,6 +52,7 @@ const LoginForm = () => {
                       type="email"
                     />
                   </FormControl>
+                  <FormMessage />
                 </FormItem>
               )}
             />
@@ -68,6 +69,7 @@ const LoginForm = () => {
                       type="password"
                     />
                   </FormControl>
+                  <FormMessage />
                 </FormItem>
               )}
             />
